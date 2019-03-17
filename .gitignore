@@ -1,2 +1,16 @@
+*~
+*.swp
+tmp/
+npm-debug.log
+.DS_Store
+nodemon.json
 .idea
+.build/*
+.next
+.vscode/
+node_modules/
+.coverage
 .env
+.next
+
+yarn-error.log
